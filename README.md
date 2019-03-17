@@ -24,3 +24,13 @@ Basically automates several payments using different credit cards based on a YAM
 edit config.yaml
 
     python3 ./wowpay.py
+# Options
+    ubuntu@lubuntu4:~/wowpay$ python3 wowpay.py --help
+    usage: wowpay.py [-h] [-u USERNAME] [-p PASSWORD] [-f] [-q]
+    
+    optional arguments:
+      -h, --help            show this help message and exit
+      -u USERNAME, --username USERNAME
+      -p PASSWORD, --password PASSWORD
+      -f, --force
+      -q, --quiet
