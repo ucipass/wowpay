@@ -22,4 +22,5 @@ Basically automates several payments using different credit cards based on a YAM
     cp config_sample.yaml config.yaml
 # Run the program
 edit config.yaml
+
     python3 ./wowpay.py
