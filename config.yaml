@@ -1,0 +1,7 @@
+charges:
+- amount: [0.01, 0.02]
+  credit_card: XXXXX1234
+- amount: [0.11, 0.12]
+  credit_card: XXXXX4567
+password: my_password
+username: my_username
