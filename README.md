@@ -1,5 +1,5 @@
 # wowpay
-Automated Payment for Cable TV provider
+Automated Payment for WOW Cable TV provider
 Basically automates several payments using different credit cards based on a YAML file.
 # Installation
 ## Install chrome
